@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2014-10-28-16:38:01" username="agentbox" password="6Z8MYC813sW8pBg">
+  <residential modTime="2014-10-28-15:41:36" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P1287</uniqueID>
+    <isMultiple/>
+    <isHomeLandPackage>no</isHomeLandPackage>
+    <tenancy>vacant</tenancy>
+    <authority value="auction"/>
+    <auction date="2014-11-15T12:00"/>
+    <price display="yes">1400000</price>
+    <priceView>Auction</priceView>
+    <underOffer value="no"/>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Brooke Marshall</name>
+      <telephone type="mobile">0414 336 776</telephone>
+      <email>brooke.marshall@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>9</streetNumber>
+      <street>Marjorie Crescent</street>
+      <suburb display="yes">Maroubra</suburb>
+      <state>NSW</state>
+      <postcode>2035</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="House"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>4</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Chic Contemporary Living With Wonderful Central Garden</headline>
+    <description>Lifestyle: Tucked away in a serene enclave, this freestanding home delivers timeless and stylish interiors and offers an exceptional floor plan designed for seamless family living and inspired entertaining with both a sun-filled terrace for relaxed entertaining and additional covered alfresco entertaining area flowing to the lush north facing central garden. Enjoying an abundance of natural light and a peaceful street setting, it is just a short walk to Snape, Rowland &amp; Jellicoe Parks, local shopping, fine local schools and public transport.
+
+Accommodation: Dual living options and flexible spaces easily accommodate individual family needs and provides rooms for all occasions. There are three well proportioned bedrooms (all with built ins and ensuite to main) plus a generous home office which can be easily converted to a fourth bedroom if required, gourmet kitchen and two modern bathrooms. The innovative &amp; appealing floor plan is designed to offer most rooms direct access to the central garden.
+ 
+Features: Peacefully positioned at the end of this quiet cul-de-sac, this welcoming home features hardwood polished timber floors, a Jetmaster fireplace in the formal living room to create a warm ambience in the winter months, ducted air conditioning, alarm system, skylights, a lock up garage plus work station &amp; ample under house storage. Conveniently placed within close proximity to both Westfield Eastgardens, Pacific Square Shopping Centre, and moments to Maroubra Beach.
+
+For further information please contact Belle Property Randwick selling agent, Brooke Marshall 0414 336 776 or call our office on 8988 5688 for assistance.</description>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>30-Oct-2014 11:00AM to 11:45AM</inspection>
+      <inspection>01-Nov-2014 11:00AM to 11:45AM</inspection>
+      <inspection>06-Nov-2014 11:00AM to 11:45AM</inspection>
+      <inspection>08-Nov-2014 11:00AM to 11:45AM</inspection>
+      <inspection>13-Nov-2014 11:00AM to 11:45AM</inspection>
+      <inspection>15-Nov-2014 11:30AM to 12:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2014-10-16-11:25:13" url="http://www.bllprwick.com.au/lt-14-14P1287-1611258101-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2014-10-14-13:36:58" url="http://www.bllprwick.com.au/lt-14-14P1287-1413364543-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2014-10-14-09:29:01" url="http://www.bllprwick.com.au/lt-14-14P1287-1409299181-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2014-10-14-09:41:33" url="http://www.bllprwick.com.au/lt-14-14P1287-1409414249-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="2014-10-14-09:29:01" url="http://www.bllprwick.com.au/lt-14-14P1287-1409294007-rsd.jpg" format="jpg"/>
+      <img id="e" modTime="2014-10-20-11:53:22" url="http://www.bllprwick.com.au/lt-14-14P1287-2011530547-rsd.jpg" format="jpg"/>
+      <img id="f" modTime="2014-10-14-09:29:01" url="http://www.bllprwick.com.au/lt-14-14P1287-1409298399-rsd.jpg" format="jpg"/>
+      <img id="g" modTime="2014-10-14-09:41:33" url="http://www.bllprwick.com.au/lt-14-14P1287-1409413980-rsd.jpg" format="jpg"/>
+      <img id="h" modTime="2014-10-14-09:41:33" url="http://www.bllprwick.com.au/lt-14-14P1287-1409413571-rsd.jpg" format="jpg"/>
+      <img id="i" modTime="2014-10-14-09:41:33" url="http://www.bllprwick.com.au/lt-14-14P1287-1409411424-rsd.jpg" format="jpg"/>
+      <img id="j" modTime="2014-10-14-10:03:35" url="http://www.bllprwick.com.au/lt-14-14P1287-1410037249-rsd.jpg" format="jpg"/>
+      <img id="k" modTime="2014-10-15-11:20:23" url="http://www.bllprwick.com.au/lt-14-14P1287-1511204478-rsd.jpg" format="jpg"/>
+      <img id="l" modTime="2014-10-15-11:23:11" url="http://www.bllprwick.com.au/lt-14-14P1287-1511239686-rsd.jpg" format="jpg"/>
+      <img id="n" modTime="2014-10-15-11:23:11" url="http://www.bllprwick.com.au/lt-14-14P1287-1511231046-rsd.jpg" format="jpg"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <floorplan id="1" modTime="2014-10-14-13:38:36" url="http://www.bllprwick.com.au/fp-14-14P1287-1413380095-rsz.jpg" format="jpg"></floorplan>
+    </objects>
+  </residential>
+</propertyList>

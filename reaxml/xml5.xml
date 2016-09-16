@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-02-25-15:38:01" username="agentbox" password="6Z8MYC813sW8pBg">
+  <rental modTime="2015-02-25-15:23:14" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P0500</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-02-11</dateAvailable>
+    <rent period="weekly" display="yes">900</rent>
+    <priceView>$900.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Joshua Hammond</name>
+      <telephone type="mobile">0404 333 525</telephone>
+      <email>joshua.hammond@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>44</streetNumber>
+      <street>Marine Parade</street>
+      <suburb display="yes">Maroubra</suburb>
+      <state>NSW</state>
+      <postcode>2035</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Spectacular Furnished Waterfront Sanctuary</headline>
+    <description>Lifestyle - Set over looking the crystal clear waters of Lurline bay all the way accross to Bondi's Ben Buckler - you cannot get a better or closer water front location that this! With a northerly aspect, this world class property set within an award winning building is discretely secluded on a commanding position  above the cliff face and just a short stroll to Mahon Pool, Maroubra beach, shops, cafes and public transport.
+
+Accommodation - Located in a modern security block with lift access, this state of the art apartment with its bright and airy aspect, captures panoramic views of the coastline to Bondi and the Pacific Ocean's whales and dolphins. It also sits on the famous Eastern Suburbs coastal walk - this is executive apartment living at its best!
+
+Features - Accommodating a master bedroom with ample built in storage, study/office area with unbeatable ocean views, marble bathroom with large shower and heated towel rails, separate areas for living and dining, gourmet kitchen with European appliances and stone bench tops, a large entertaining balcony with gas barbeque and lock up garage. Stylishly furnished throughout, this is the perfect executive apartment suitable for a single or couple. NOTE: Please call office to arrange a private inspection.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+    </allowances>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>28-Feb-2015 11:20AM to 11:35AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2012-11-27-09:06:25" url="http://www.bllprwick.com.au/lt-14-14P0500-2616069904-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2012-11-27-09:06:25" url="http://www.bllprwick.com.au/lt-14-14P0500-2616061286-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2012-11-27-09:07:06" url="http://www.bllprwick.com.au/lt-14-14P0500-2616072789-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2012-11-27-09:07:06" url="http://www.bllprwick.com.au/lt-14-14P0500-2616078673-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="2012-11-27-09:07:56" url="http://www.bllprwick.com.au/lt-14-14P0500-2616079624-rsd.jpg" format="jpg"/>
+      <img id="e" modTime="2012-11-27-09:07:56" url="http://www.bllprwick.com.au/lt-14-14P0500-2616074740-rsd.jpg" format="jpg"/>
+      <img id="f" modTime="2012-11-27-09:07:56" url="http://www.bllprwick.com.au/lt-14-14P0500-2616073372-rsd.jpg" format="jpg"/>
+      <img id="g" modTime="2012-11-27-09:07:56" url="http://www.bllprwick.com.au/lt-14-14P0500-2616076374-rsd.jpg" format="jpg"/>
+      <img id="h" modTime="2012-11-27-09:08:30" url="http://www.bllprwick.com.au/lt-14-14P0500-2616084219-rsd.jpg" format="jpg"/>
+      <img id="i" modTime="2012-11-27-09:07:06" url="http://www.bllprwick.com.au/lt-14-14P0500-2616076286-rsd.jpg" format="jpg"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+    </objects>
+  </rental>
+  <rental modTime="2015-02-25-15:29:52" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P1165</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-01-12</dateAvailable>
+    <rent period="weekly" display="yes">570</rent>
+    <priceView>$570.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Joshua Hammond</name>
+      <telephone type="mobile">0404 333 525</telephone>
+      <email>joshua.hammond@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>130b</streetNumber>
+      <street>Marine Parade</street>
+      <suburb display="yes">Maroubra</suburb>
+      <state>NSW</state>
+      <postcode>2035</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Fabulous Oceanfront One Bedroom Apartment freshly painted throughout!</headline>
+    <description>Lifestyle - Set in an unbeatable location over-looking the sand and surf at the iconic Maroubra beach, this bright an airy one bedroom is a must to inspect.
+
+Accommodation - With amazing views over Maroubra beach and the coast, this apartment is set on the mid-level of a small block close to public transport, shops, cafe's and parklands offering a prized beachside lifestyle.
+
+Features - Lounge leading to good sized balcony with prime beachfront views, open plan kitchen, one bedroom with robe and private sunny balcony, well-maintained bathroom with tub. NOTE: Please call office prior to inspections for confirmation that the property is still available.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+    </allowances>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>28-Feb-2015 11:40AM to 11:55AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2014-05-21-14:46:19" url="http://www.bllprwick.com.au/lt-14-14P1165-2114467552-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2014-05-21-14:46:19" url="http://www.bllprwick.com.au/lt-14-14P1165-2114469266-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2014-05-21-14:46:19" url="http://www.bllprwick.com.au/lt-14-14P1165-2114468857-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2014-05-21-14:46:19" url="http://www.bllprwick.com.au/lt-14-14P1165-2114461948-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="2014-05-21-14:46:19" url="http://www.bllprwick.com.au/lt-14-14P1165-2114469938-rsd.jpg" format="jpg"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+    </objects>
+  </rental>
+  <rental modTime="2015-02-25-14:40:54" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P1413</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-02-16</dateAvailable>
+    <rent period="weekly" display="yes">950</rent>
+    <priceView>$950.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Joshua Hammond</name>
+      <telephone type="mobile">0404 333 525</telephone>
+      <email>joshua.hammond@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>37</streetNumber>
+      <street>Prince Street</street>
+      <suburb display="yes">Randwick</suburb>
+      <state>NSW</state>
+      <postcode>2031</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>3</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Spacious home in excellent location</headline>
+    <description>Lifestyle - This elevated 3 bedroom apartment that feels more like a semi is set in a fabulous quiet street just a short walk to Randwick Racecourse, UNSW, Randwick Tafe and POW Hospital, many local parks and schools along with Randwick Village with popular entertainment features, cafÃ©'s and restaurants plus ample transportation means. 
+
+Accommodation - Featuring 3 large bedrooms â main with sun room, 2 bedrooms with air conditioning, spacious lounge with air-conditioning leading to balcony and onto quaint shared garden. Open plan kitchen with gas cooking and dishwasher with access to outside, well-maintained bathroom with bath tub and 2nd bathroom, internal laundry and space to park car in front of garage.
+
+Features - With a leafy aspect and breezy position, this home is brimming with all of the desired features including floorboards throughout, high ceilings, period features, ample storage plus a private style entry set in a small block of only 4. NOTE: Please call office prior to inspections for confirmation that the property is still available. </description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+    </allowances>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>28-Feb-2015 10:00AM to 10:15AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2015-02-06-14:29:27" url="http://www.bllprwick.com.au/lt-14-14P1413-0614297907-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2015-02-06-14:29:27" url="http://www.bllprwick.com.au/lt-14-14P1413-0614295092-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2015-02-06-14:29:27" url="http://www.bllprwick.com.au/lt-14-14P1413-0614291465-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2015-02-06-14:29:27" url="http://www.bllprwick.com.au/lt-14-14P1413-0614293672-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="2015-02-06-14:29:27" url="http://www.bllprwick.com.au/lt-14-14P1413-0614292651-rsd.jpg" format="jpg"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+    </objects>
+  </rental>
+  <rental modTime="2015-02-25-15:32:30" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P1444</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-02-24</dateAvailable>
+    <rent period="weekly" display="yes">920</rent>
+    <priceView>$920.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Joshua Hammond</name>
+      <telephone type="mobile">0404 333 525</telephone>
+      <email>joshua.hammond@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>79</streetNumber>
+      <street>Hinkler Street</street>
+      <suburb display="yes">Maroubra</suburb>
+      <state>NSW</state>
+      <postcode>2035</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="House"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>3</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Beautiful character home</headline>
+    <description>Lifestyle -  Peacefully set in a tree-lined street sits this spacious family home ideal for a growing family. Perfectly positioned just a short stroll to Eastgardens shopping precinct and ample transportation along with the large offering of shops at Maroubra Junction and many local schools including the French School, this is a must to inspect.
+
+Accommodation - Beautifully presented throughout with lovely period features and spacious interiors this home features three bedrooms - huge main bedroom with adjoining sun room, spacious kitchen opening out to lounge and dining alcove, main bathroom with bath tub, large laundry with 2nd shower and LUG.
+
+Features - A highly sought after location only moments from local parks and a choice of Eastern Beaches further features including floorboards throughout, lovely manicured wrap around front garden, ideal corner position, 1 x LUG, 1 x car space and courtyard. NOTE: Please call office prior to inspections for confirmation that the property is still available.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+    </allowances>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>28-Feb-2015 12:55PM to 01:10PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2015-02-23-15:03:52" url="http://www.bllprwick.com.au/lt-14-14P1444-2315038936-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2015-02-23-15:03:52" url="http://www.bllprwick.com.au/lt-14-14P1444-2315033020-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2015-02-23-15:03:52" url="http://www.bllprwick.com.au/lt-14-14P1444-2315030266-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2015-02-23-15:03:52" url="http://www.bllprwick.com.au/lt-14-14P1444-2315036909-rsd.jpg" format="jpg"/>
+      <img id="d"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+    </objects>
+  </rental>
+  <rental modTime="2015-02-25-15:32:07" status="current">
+    <agentID>BELLERANDWICK</agentID>
+    <uniqueID>14P1445</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-02-23</dateAvailable>
+    <rent period="weekly" display="yes">1400</rent>
+    <priceView>$1400.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">617</area>
+    </landDetails>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Joshua Hammond</name>
+      <telephone type="mobile">0404 333 525</telephone>
+      <email>joshua.hammond@belleproperty.com</email>
+    </listingAgent>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>12</streetNumber>
+      <street>Broome Street</street>
+      <suburb display="yes">Maroubra</suburb>
+      <state>NSW</state>
+      <postcode>2035</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="House"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>4</bedrooms>
+      <bathrooms>3</bathrooms>
+      <garages>2</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <floorboards>0</floorboards>
+      <gym>0</gym>
+      <study>0</study>
+      <courtyard>0</courtyard>
+      <fullyFenced>0</fullyFenced>
+      <secureParking>0</secureParking>
+    </features>
+    <headline>Idyllic Family Beach House Commanding Ocean &amp; Headland Views</headline>
+    <description>Lifestyle - Perfectly located opposite Arthur Byrne Reserve, enjoying an idyllic beach side setting just a short stroll to the Maroubra Beach foreshore is this substantial, freestanding full brick family residence occupying an elevated sun-soaked position. Well presented throughout with a magnificent floor plan allows for both relaxed and formal large scale entertaining.
+
+Accommodation - Comprising 4 double bedrooms (each with balcony access), master bedroom with walk-in-robe and ensuite, multiple living and dining spaces all with sparkling ocean views, well maintained original kitchen and bathrooms offering space and versatility, double lock up garage with internal access, and an abundance of storage options.
+
+Features: Wonderful architectural features throughout, large rear yard with plenty of space for a pool, this unique offering provides an enormous opportunity merely footsteps to a multitude of local attractions such as Malabar National Park Headland, Maroubra Surf Club and the rolling surf and golden sands of Maroubra Beach. NOTE: Please call office prior to inspections for confirmation that the property is still available.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+    </allowances>
+    <ecoFriendly>
+      <greyWaterSystem>0</greyWaterSystem>
+      <solarHotWater>0</solarHotWater>
+      <solarPanels>0</solarPanels>
+      <waterTank>0</waterTank>
+    </ecoFriendly>
+    <inspectionTimes>
+      <inspection>26-Feb-2015 04:15PM to 04:45PM</inspection>
+      <inspection>28-Feb-2015 12:30PM to 12:45PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-651-2115434393-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-652-2514153700-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-653-2115473254-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-654-2115473062-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-655-2115430362-rsd.jpg" format="jpg"/>
+      <img id="e" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-656-2115439958-rsd.jpg" format="jpg"/>
+      <img id="f" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-657-2115478207-rsd.jpg" format="jpg"/>
+      <img id="g" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-658-2115475356-rsd.jpg" format="jpg"/>
+      <img id="h" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-659-2410497763-rsd.jpg" format="jpg"/>
+      <img id="i" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-9-660-2115432669-rsd.jpg" format="jpg"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <floorplan id="1" modTime="1970-01-01-10:00:00" url="http://www.bllprwick.com.au/cms-10-661-2514069273-rsz.jpg" format="jpg"></floorplan>
+    </objects>
+  </rental>
+</propertyList>

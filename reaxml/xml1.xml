@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2015-11-24-09:29:01" username="agentbox_w@buyselllease.com.au" password="TT3IdLs$ZCDv">
+  <rental modTime="2015-11-24-09:18:23" status="current">
+    <agentID>B906</agentID>
+    <uniqueID>1P0509</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2015-12-15</dateAvailable>
+    <bond>1840</bond>
+    <rent period="weekly" display="yes">460</rent>
+    <priceView>$460.00</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ryan Beattie</name>
+      <telephone type="mobile">0419 488 280</telephone>
+      <email>ryan@beattieproperty.com.au</email>
+    </listingAgent>
+    <listingAgent id="2"/>
+    <listingAgent id="3"/>
+    <listingAgent id="4"/>
+    <address display="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>4/9</streetNumber>
+      <street>Burke Road</street>
+      <suburb display="yes">Cronulla</suburb>
+      <state>NSW</state>
+      <postcode>2230</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Terrace"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <toilet>0</toilet>
+    </features>
+    <headline>INSPECT SATURDAY 12TH DECEMBER 10:00-10:30AM </headline>
+    <description>This freshly updated and sun filled apartment offers a fantastic lifestyle. Privately positioned on the first floor of a small building this bright and sun-filled apartment is only a short walk to Cronulla's beaches, cafes, restaurants, shops and transport options.
+
+FEATURES:
+
+Lime wash timber floors
+Plantation shutters throughout
+Spacious combined open-plan living and dining
+Modern kitchen &amp; bathroom 
+Air conditioning
+Only one common wall
+Internal New York-style laundry
+Generous balcony with private, leafy outlook
+Two good-sized bedrooms with built-in robe and walk-in robe 
+Single lock up garage and parking for a 2nd car in front of garage
+</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>12-Dec-2015 10:00AM to 10:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img id="m" modTime="2015-11-24-08:59:51" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831599251494662-rsd.jpg" format="jpg"></img>
+      <img id="a" modTime="2015-11-24-08:59:37" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831597841736382-rsd.jpg" format="jpg"/>
+      <img id="b" modTime="2015-11-24-08:59:47" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831598758811792-rsd.jpg" format="jpg"/>
+      <img id="c" modTime="2015-11-24-08:59:47" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831598788657803-rsd.jpg" format="jpg"/>
+      <img id="d" modTime="2015-11-24-08:59:47" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831598759008810-rsd.jpg" format="jpg"/>
+      <img id="e" modTime="2015-11-24-08:59:51" url="http://www.beattieproperty.com.au/lt-1-1P0509-144831599131118449-rsd.jpg" format="jpg"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <floorplan id="1" modTime="2015-11-24-08:53:12" url="http://www.beattieproperty.com.au/fp-1-1P0509-144831559248606749-rsz.jpg" format="jpg"></floorplan>
+      <floorplan id="2"/>
+    </objects>
+  </rental>
+</propertyList>
